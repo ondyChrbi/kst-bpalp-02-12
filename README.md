@@ -17,4 +17,3 @@ Tento repozitář obsahuje vzorové zadání úlohy. Cílem úkolu je přizpůso
 ### 3. Dodržte principy OOP
 - Používejte principy zapouzdření, modularity a čitelnosti kódu.
 - Využívejte práci s objekty namísto primitivních datových typů.
-- 
